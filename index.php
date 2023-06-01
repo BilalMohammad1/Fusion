@@ -18,7 +18,9 @@
                 <button type="button" onclick="addFileInput()">+</button>
             </div>
             <br>
-            <button type="submit" name="submit">Fusionner</button>
+            <div class="button-container">
+                <button type="submit" name="submit">Fusionner</button>
+            </div>
         </form>
     </div>
 </body>
